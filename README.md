@@ -1,2 +1,1 @@
-# zombie-game-stage-4
-Project 45
+# Self Designed Game
